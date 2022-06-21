@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Ram.Common.ArcObjects</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Joe Hershman</authors>
+    <owners>Joe Hershman</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>10.8.1 update</releaseNotes>
+    <copyright>Copyright 2022</copyright>
+    <tags>esri ArcObjects</tags>
+    <readme>docs\README.md</readme>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\README.md" target="docs\" />
+  </files>
+</package>
