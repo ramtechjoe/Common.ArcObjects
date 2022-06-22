@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Ram.Common.ArcObjects</id>
+    <id>Common.ArcObjects</id>
     <version>$version$</version>
     <title>$title$</title>
     <authors>Joe Hershman</authors>
@@ -12,6 +12,8 @@
     <copyright>Copyright 2022</copyright>
     <tags>esri ArcObjects</tags>
     <readme>docs\README.md</readme>
+    <license type="expression">AGPL-3.0-or-later</license>
+    <repository type="git" url="https://github.com/ramtechjoe/Common.ArcObjects.git" />
     <dependencies>
       <group targetFramework=".NETFramework4.6.1">
       </group>
